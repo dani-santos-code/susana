@@ -1,0 +1,14 @@
+.msa {
+  min-height: calc(100vh - 205px);
+
+  &__links {
+    float: left;
+    width: 100%;
+
+    a {
+      color: $white;
+      text-align: center;
+      word-wrap: break-word;
+    }
+  }
+}

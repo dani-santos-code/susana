@@ -1,0 +1,29 @@
+.contact {
+  &__col {
+    width: 50%;
+    float: left;
+    padding-right: 2em;
+    padding-left: 2em;
+
+    @include device($phone) {
+      width: 100%;
+    }
+
+    &--clubsoda {
+      border-right: solid 1px #315065;
+      @include device($phone) { border-right: none; }
+
+      * {
+        text-align: right;
+
+        @include device($phone) { text-align: center; }
+      }
+    }
+
+    &--companies * {
+      text-align: left;
+
+      @include device($phone) { text-align: center; }
+    }
+  }
+}

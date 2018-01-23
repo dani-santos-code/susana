@@ -1,0 +1,37 @@
+.crew {
+  &__list {
+    list-style: none;
+    padding: 0;
+  }
+
+  &__list-item {
+    float: left;
+    width: 100%;
+    padding: 1em;
+    text-align: center;
+
+    @include device($desktop){
+      height: 700px;
+      width: calc(100% / 3);
+    }
+    @include device($phone){
+      width: 100%;
+    }
+    @include device($tablet){
+      width: calc(100% / 2);
+      padding: 1em;
+    }
+
+  }
+
+  &__list-item p {
+    text-align: center;
+  }
+
+  &__img {
+    border-radius: 50%;
+    overflow: hidden;
+    max-width: 100%;
+    width: 230px;
+  }
+}

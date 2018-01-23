@@ -1,0 +1,13 @@
+.container {
+  max-width: $desktop-grid-max-width;
+  width: 100%;
+  margin: 0 auto;
+
+  @include device($phone) {
+    padding: 0 10px;
+  }
+
+  &--narrow {
+    max-width: 530px;
+  }
+}

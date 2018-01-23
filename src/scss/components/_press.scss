@@ -1,0 +1,27 @@
+.press {
+  &__links {
+    text-align: center;
+    line-height: 2;
+
+    img {
+      float: left;
+      max-width: 100px;
+      margin-right: 10px;
+    }
+
+    a {
+      width: 100%;
+      float: left;
+      display: block;
+      color: $white;
+      text-align: left;
+      border-bottom: 1px solid $primary-color;
+      margin-bottom: 15px;
+      padding-bottom: 15px;
+
+      &:hover {
+        color: $secondary-color;
+      }
+    }
+  }
+}

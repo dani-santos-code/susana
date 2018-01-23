@@ -1,0 +1,16 @@
+$black:                #000;
+$white:                #fff;
+$transparent-white:    rgba($white, .5);
+
+$lightest-gray:        #f3f8ff;
+$light-gray:           #e6ebf0;
+$medium-gray:          #9599aa;
+$gray:                 #424b53;
+$dark-gray:            #2d3047;
+
+$primary-color:        #2b445c;
+$primary-color-hover:  lighten($primary-color, 10%);
+$secondary-color:      #2cd1af;
+
+$primary-text-color:   $dark-gray;
+$secondary-text-color: $medium-gray;

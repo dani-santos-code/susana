@@ -1,0 +1,64 @@
+.menu {
+  background-image: url('../assets/background.jpg');
+  background-size: cover;
+  transition: all .5s ease;
+  bottom: 0;
+  color: $white;
+  height: 100%;
+  right: 0;
+  overflow: scroll;
+  perspective: 600px;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  will-change: contents;
+  z-index: 10;
+
+  @include device($up-to-tablet) {
+    width: $menu-width;
+    box-shadow: $menu-width 0 140px 120vw rgba(43, 68, 92, 0.6);
+
+    &--is-hidden {
+      box-shadow: 0 140px 0 rgba(43, 68, 92, 0);
+      right: -$menu-width;
+    }
+  }
+
+  &__wrapper {
+    padding-top: $default-padding * 6;
+
+    @include device($tablet-up) {
+      margin-left: 30px;
+    }
+  }
+
+  &--is-hidden {
+    right: -100vw;
+  }
+
+  &__item {
+    color: white;
+    display: inline-block;
+    float: left;
+    font-family: $secondary-font-family;
+    font-size: 4vh;
+    overflow: hidden;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+    text-transform: uppercase;
+    transition: all .5s;
+    width: 100%;
+    will-change: auto;
+
+    @include device($up-to-tablet) {
+      text-align: left;
+      font-size: $font-large;
+    }
+
+    &:hover {
+      color: $secondary-color;
+    }
+  }
+}

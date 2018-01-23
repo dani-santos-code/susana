@@ -1,0 +1,14 @@
+.menu-item-enter-to,
+.menu-item-leave {
+  opacity: 1;
+  height: 88px;
+  transform: rotateX(0deg);
+}
+
+.menu-item-enter,
+.menu-item-leave-to {
+  opacity: 0;
+  height: 0;
+  padding: 0;
+  transform: rotateX(-90deg);
+}

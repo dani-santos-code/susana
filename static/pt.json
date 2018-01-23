@@ -1,0 +1,99 @@
+{
+  "language": "pt",
+  "menu": {
+    "home": "Home",
+    "about": "Sinopse",
+    "gallery": "Fotos",
+    "crew": "Equipe",
+    "contact": "Contatos",
+    "press": "Imprensa",
+    "screenings": "Exibições",
+    "msa": "AMS"
+  },
+  "about": {
+    "text1": "Susana Schnarndorf é nadadora profissional brasileira e mãe de três filhos, diagnosticada em 2005 com Atrofia de Múltiplos Sistemas, uma doença degenerativa. Em 2013, desafiando todas previsões médicas, Susana decide apostar o seu tempo na classificação para os Jogos Paralímpicos de 2016. No entanto, isto implica abandonar os filhos e reconciliar-se com o um conturbado passado familiar. 'Um dia para Susana' mergulha no lado imperfeito da maternidade e nas liberdades individuais, em uma corrida pela sobrevivência.",
+    "text2": "Um filme de Giovanna Giovanini & Rodrigo Boecker"
+  },
+  "crew": [{
+      "picture": "giovanna.jpg",
+      "name": "Giovanna Giovanini",
+      "occupation": "Diretora, Produtora Executiva, Roteirista e Montadora",
+      "description": "Giovanna é montadora e diretora brasileira. Ela foi assistente de montagem de 'A Pessoa é para o que Nasce' de Roberto Berliner (2002), selecionado para o IDFA 2013. Ela montou mais de dez séries documentais para a TV brasileira. Ela recebeu o Prêmio de Melhor Montagem no 38º Festival Guarnicê para 'Cine Paissandu – Histórias de uma Geração' (2013) de Christian Jafas. Seu primeiro longa-metragem, ‘Um dia para Susana’ recebeu a bolsa do Tribeca Film Institute Latin America Fund 2015."
+    },
+    {
+      "picture": "rodrigo.jpg",
+      "name": "Rodrigo Boecker",
+      "occupation": "Diretor, Fotógrafo e Editor de Som",
+      "description": "Depois de uma carreira de seis anos como produtor musical na TV Globo, Rodrigo fundou sua própria produtora, a Clubsoda Filmes. Trabalhou como editor de som e compositor para documentários como o curta de Christian Jafas 'Cine Paissandu – Histórias de uma Geração' (2013); o longa 'Galáxias' (2014) de Fabiano Maciel; 'SeeWatchLook' (2014) de Michel Melamed. Rodrigo assina o desenho de som do curta animado 'O Projeto do Meu Pai' (2016) de Rosaria Moreira, que ganhou seis prêmios na 24ª edição do Anima Mundi."
+    },
+    {
+      "picture": "maria.jpg",
+      "name": "María Vera",
+      "occupation": "Co-roteirista",
+      "description": " María é formada em Cinema e TV pela Universidade Nacional de Córdoba, Argentina. Desde 2008, María esteve focada na produção e desenvolvimento de documentários de diretores premiados como Alejandro Fernández Mouján, Abner Benaim e na TV cultural-educacional (Canal Encuentro). Ela também foi produtora e programadora em festivais de cinema. Em 2016, fundou a empresa Kino Rebelde, focada em cinema ibero-americano. María hoje aplica seus conhecimentos no desenvolvimento e distribuição de documentários criativos e híbridos."
+    },
+    {
+      "picture": "gustavo.jpg",
+      "name": "Gustavo Nasr",
+      "occupation": "Produtor Executivo",
+      "description": " Gustavo Nasr é diretor de fotografia e colorista premiado no Brasil. Seu primeiro curta-metragem 'Aqueles Dias’ teve 10 indicações internacionais, ganhando o Prêmio de Melhor de Linguagem Visual no Cine Amazônia 2005 e selecionado no Clermont-Ferrand Short Film Market. Foi diretor e fotógrafo em 'Adorável Psicose', eleita melhor série de comédia pela revista 'Monet'. Gustavo mudou-se para os EUA em 2012 para trabalhar com Producing Partners e Tria Productions. Gustavo dirigiu e fotografou diversas séries como 'Anota Aí', 'Além da Conta', 'Pedro pelo Mundo' para GNT e 'Geografia da Arte' para o canal Arte1."
+    },
+    {
+      "picture": "eduardo.jpg",
+      "name": "Eduardo Calvet",
+      "occupation": "Produtor Executivo",
+      "description": " Eduardo é diretor e produtor brasileiro formado em Comunicação pela UFRJ que produziu 5 séries documentais para a TV a cabo brasileira. Ele dirigiu e produziu através da Ideograph, sua produtora, ‘Luz, Anima, Ação’, documentário selecionado para o Festival Internacional de Palm Beach 2014 e para o Annecy 2014. Ele é o produtor executivo de curtas documentais como 'Cabelo Bom’, vencedor do Prêmio Especial do Júri no 45º Festival de Cinema de Gramado e 'Olteanca', selecionado para o AntofaDocs 2016, Mostra Cine BH e Festival de Cinema Covellite."
+    },
+    {
+      "picture": "cory.jpg",
+      "name": "Cory Rizos, CAS",
+      "occupation": "Mixador de Som",
+      "description": " Com 20 anos de experiência e milhares de horas em frente a uma placa de som e um estúdio de mixagem, o canadense Cory Rizos mixou e editou quase 80 filmes de longa-metragem. Além disso, Cory trabalhou em diversas produções de televisão no Canadá. Ele é vencedor do Prêmio Gemini de Melhor Som de Documentário por seu trabalho na série ‘The War of 1812’ e foi nomeado novamente ao mesmo prêmio para a série ‘The Black Hawk War’."
+    }
+  ],
+  "contact": {
+    "clubsoda": [{
+        "name": "Clubsoda Filmes",
+        "link": "clubsodafilms.com",
+        "email": "clubsoda@clubsodafilms.com"
+      },
+      {
+        "name": "Giovanna Giovanini (diretora)",
+        "email": "giovanna@clubsodafilms.com"
+      },
+      {
+        "name": "Rodrigo Boecker (diretor)",
+        "email": "rodrigo@clubsodafilms.com"
+      }
+    ],
+    "companies": [{
+        "name": "Vitrine Filmes",
+        "link": "vitrinefilmes.com.br"
+      },
+      {
+        "name": "Kino Rebelde (María Vera)",
+        "link": "kinorebelde.com"
+      },
+      {
+        "name": "Defeat MSA",
+        "link": "defeatmsa.org"
+      }
+    ]
+  },
+    "msa": { 
+    "description": "Para saber mais sobre a Atrofia de Múltiplos Sistemas, doença de Susana Schnarndorf: ",
+    "links": [
+      "https://defeatmsa.org/what-is-msa/", 
+      "https://pt.wikipedia.org/wiki/Atrofia_de_m%C3%BAltiplos_sistemas"
+    ]
+  },
+    "intro": {
+      "director": "Um filme de Giovanna Giovanini & Rodrigo Boecker"  
+  },
+    "screeningtext": {
+    "infoscreening": "Em breve."  
+  },
+    "footer": {
+    "rights": "| ClubSoda Filmes © 2016 - Todos os direitos reservados      |      Website implementado por"
+  }
+}

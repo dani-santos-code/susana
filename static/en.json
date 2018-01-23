@@ -1,0 +1,100 @@
+{
+  "language": "en",
+  "menu": {
+    "home": "Home",
+    "about": "About",
+    "gallery": "Gallery",
+    "crew": "Crew",
+    "contact": "Contact",
+    "press": "Press",
+    "screenings": "Screenings",
+    "msa": "MSA"
+  },
+  "about": {
+    "text1": "Susana Schnarndorf is a professional Brazilian swimmer and mother of three, diagnosed in 2005 with Multiple System Atrophy, a degenerative disease. In 2013, defying medical prognosis, Susana decides to spend all her time to try to qualify for the 2016 Paralympic Games. However, this means leaving her kids behind and making up with her troubled family background. 'A day for Susana' inquiries into the imperfect side of motherhood and individual freedom in a race to survive.",
+    "text2": "A film by Giovanna Giovanini & Rodrigo Boecker"
+  },
+  "crew": [{
+      "picture": "giovanna.jpg",
+      "name": "Giovanna Giovanini",
+      "occupation": "Director, Executive Producer, Editor and Writer",
+      "description": "Giovanna is a non-fiction filmmaker and editor. She was assistant editor in Roberto Berliner's 'Born to be Blind' (2002), selected at IDFA 2013. She edited more than ten documentary series for Brazilian TV. She received the Best Editing Award at Guarnicê Festival for 'Cine Paissandu' (2013) by Christian Jafas. Her debut film 'A day for Susana' won the Tribeca Film Institute Latin America Fund 2015."
+    },
+    {
+      "picture": "rodrigo.jpg",
+      "name": "Rodrigo Boecker",
+      "occupation": "Director, D.P. and Sound Editing",
+      "description": "Rodrigo Boecker had a six-year career as a music producer for TV Globo in Brazil to then start his own production company, ClubSoda Filmes. He worked as a sound designer and composer for documentaries such as Christian Jafas' short film 'Cine Paissandu' (2013); 'Galáxias' (2014) of Fabiano Maciel, winner of Best Production in the 8th Atlantidoc; 'SeeWatchLook' (2014) by Michel Melamed. Rodrigo is the sound designer of Rosaria Moreira's animated short film 'My Dad's Project' (2016), which won six major awards in the 24th edition of Anima Mundi."
+    },
+    {
+      "picture": "maria.jpg",
+      "name": "María Vera",
+      "occupation": "Writer",
+      "description": "María is graduated in Cinema and TV in the National University of Cordoba, Argentina. Since 2008, her career is focused on production and development of documentaries along awarded directors as Alejandro Fernández Mouján, Abner Benaim and in cultural-educational TV (Canal Encuentro). She was curator and programmer at film festivals (AcampaDoc, LatinArab, FiSahara). In 2016 she founded Ibero-American film company Kino Rebelde to put all her knowledge into practice in creative documentaries."
+    },
+    {
+      "picture": "gustavo.jpg",
+      "name": "Gustavo Nasr",
+      "occupation": "Executive Producer",
+      "description": "Gustavo Nasr is a Brazilian award-winning cinematographer and colorist. His first short film ‘Those Days’ had 10 International nominations, winning Best Visual Language Award in Cine Amazônia 2005 and selected at Clermont-Ferrand Short Film Market. He was as director and DP of ‘ Adorável Psicose’, elected the best comedy series by Brazilian magazine ‘Monet’. Gustavo moved to USA in 2012 to work with Producing Partners and Tria Productions. Gustavo has directed and photographed several series such as ‘Anota Aí’, ‘Além da Conta’, ‘Pedro pelo Mundo’ for GNT and ‘Geografia da Arte’ for Arte1."
+    },
+    {
+      "picture": "eduardo.jpg",
+      "name": "Eduardo Calvet",
+      "occupation": "Executive Producer",
+      "description": "Eduardo is a Brazilian director/producer graduated in Communication at Federal University of Rio de Janeiro, who has produced 5 documentary series for Brazilian cable TV. He has directed and produced through Ideograph, his production company, ‘Between Frames’, a feature documentary selected for the 2014 Palm Beach Intl. FF and 2014 Annecy Intl Animated FF. He is the executive producer of short documentaries such as ‘Curly Power’, winner of the Special Jury Prize at the 45th Gramado Film Festival and ‘Olteanca’, selected for the AntofaDocs 2016, Mostra Cine BH and Covellite Film Festival."
+    },
+    {
+      "picture": "cory.jpg",
+      "name": "Cory Rizos, CAS",
+      "occupation": "Re-Recording Mixer",
+      "description": "With 20 years and several thousands of hours behind a sound board and in the editing suite, Cory has mixed and edited nearly 80 feature length films and worked on several dozen television productions. He is the recipient of a Gemini Award for Best Sound in a Documentary Program for his work on The War of 1812, and a Gemini Nominee for Best Sound in The Black Hawk War."
+    }
+  ],
+  "contact": {
+    "clubsoda": [{
+        "name": "Clubsoda Films",
+        "link": "clubsodafilms.com",
+        "email": "clubsoda@clubsodafilms.com"
+      },
+      {
+        "name": "Giovanna Giovanini (Director)",
+        "email": "giovanna@clubsodafilms.com"
+      },
+      {
+        "name": "Rodrigo Boecker (Director)",
+        "email": "rodrigo@clubsodafilms.com"
+      }
+    ],
+    "companies": [{
+        "name": "Vitrine Filmes",
+        "link": "vitrinefilmes.com.br"
+      },
+      {
+        "name": "Kino Rebelde (María Vera)",
+        "link": "kinorebelde.com"
+      },
+      {
+        "name": "Defeat MSA",
+        "link": "defeatmsa.org"
+      }
+    ]
+  },
+   "msa": { 
+    "description": "To learn more about Susana Schnarndorf's disease, Multiple System Atrophy (MSA): ",
+    "links": [
+      "https://defeatmsa.org/what-is-msa/", 
+      "https://en.wikipedia.org/wiki/Multiple_system_atrophy"
+    ]
+  },
+  "intro": {
+    "director": "A film by Giovanna Giovanini & Rodrigo Boecker"  
+  },
+  "screeningtext": {
+    "infoscreening": "Coming soon"  
+  },
+  "footer": {
+    "rights": "| ClubSoda Films © 2016 - All rights reserved       |      Website implemented by"
+  }
+
+}
