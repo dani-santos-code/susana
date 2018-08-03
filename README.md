@@ -1,4 +1,6 @@
-# 1000 dias
+# A Day For Susana
+
+This is project for the institutional website of the independent documentary *A Day For Susana*.
 
 ### Getting Started
 ⚠️ Make sure you have a recent version of [NodeJs](https://nodejs.org/en/) `^v8.4.0` installed in your computer
