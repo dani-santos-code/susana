@@ -1,6 +1,6 @@
 # A Day For Susana
 
-This is project for the institutional website of the independent documentary *A Day For Susana* (https://www.adayforsusana.com).
+This is a project for the institutional website of the independent documentary *A Day For Susana* (https://www.adayforsusana.com).
 
 It was developed with Vue.js. The project includes: Webpack, Sass, CSS, Jade/Pug, BEM.
 
